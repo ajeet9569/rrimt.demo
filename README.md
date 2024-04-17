@@ -1,4 +1,4 @@
 # rrimt.demo
 This is my first Git Repository
 <br>
-Author-Ajeet Kumar
+Author-Ajeet(RRIMT)
